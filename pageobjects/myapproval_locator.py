@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-# @author SPEC INDIA
+ 
 # Description: My approval screen locators
 
 class MyapprovalLocator:

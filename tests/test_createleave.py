@@ -4,7 +4,7 @@ from testdata.constant import Constant
 from utilities.baseclass import BaseClass
 from utilities.readdata import readdata
 
-# @author SPEC INDIA
+ 
 class TestCreateLeave(BaseClass):
 
     # Description: Create leave scenario

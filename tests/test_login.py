@@ -5,7 +5,7 @@ from testdata.constant import Constant
 from utilities.readdata import readdata
 from utilities.baseclass import BaseClass
 
-# @author SPEC INDIA
+ 
 class TestLogin(BaseClass):
 
     # Description: Invalid login credentials scenarios

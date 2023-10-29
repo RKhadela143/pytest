@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 from testdata.constant import Constant
 
-# @author SPEC INDIA
+ 
 # Description: My request screen locators
 
 class MyrequestLocator:

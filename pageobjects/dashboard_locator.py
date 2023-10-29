@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-# @author SPEC INDIA
+ 
 # Description: Dashboard screen locators
 
 class DashboardLocator:

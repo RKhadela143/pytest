@@ -1,6 +1,6 @@
 import openpyxl
 
-# @author SPEC INDIA
+ 
 # Description: To read username password from the excel file
 def readdata(sheetname, bookname):
     list1 = []

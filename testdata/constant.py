@@ -1,7 +1,7 @@
 import os
 from utilities import readdata
 
-# @author SPEC INDIA
+ 
 class Constant:
 
     URL = "https://spectrumdb.specindia.com/"

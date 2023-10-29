@@ -3,7 +3,7 @@ from pageobjects.myrequest_locator import MyrequestLocator
 from testdata.constant import Constant
 from utilities.basepage import BasePage
 
-# @author SPEC INDIA
+ 
 class MyRequest(BasePage):
 
     def __init__(self, driver):

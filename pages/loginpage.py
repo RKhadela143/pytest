@@ -3,7 +3,7 @@ from pages.dashboard import Dashboard
 from utilities.basepage import BasePage
 from testdata.constant import Constant
 
-# @author SPEC INDIA
+ 
 class LoginPage(BasePage):
 
     def __init__(self, driver):

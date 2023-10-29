@@ -5,7 +5,7 @@ from utilities.baseclass import BaseClass
 from utilities.readdata import readdata
 
 
-# @author SPEC INDIA
+ 
 class TestApproveLeave(BaseClass):
 
     # Description: Approve leave scenario

@@ -4,7 +4,7 @@ import pytest
 
 from testdata.constant import Constant
 
-# @author SPEC INDIA
+ 
 @pytest.mark.usefixtures("setup")
 class BaseClass:
 

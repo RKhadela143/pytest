@@ -10,7 +10,7 @@ from utilities.readdata import readbrowser
 
 driver = None
 
-# @author SPEC INDIA
+ 
 # Description: Fixture file setup and tear down method
 @pytest.fixture(params=readbrowser("test_browser", Constant.BOOK_PATH), scope="class")
 def setup(request):

@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-# @author SPEC INDIA
+ 
 # Description: Login screen locators
 
 class LoginpageLocator:

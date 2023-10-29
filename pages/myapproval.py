@@ -5,7 +5,7 @@ from testdata.constant import Constant
 from utilities.basepage import BasePage
 
 
-# @author SPEC INDIA
+ 
 class MyApproval(BasePage):
 
     def __init__(self, driver):
